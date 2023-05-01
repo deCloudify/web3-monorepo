@@ -1,0 +1,9 @@
+{
+  "name": "@web3-monorepo/wormhole",
+  "description": "wormwhole library alllows to interact with crosschain contracts based on wormhole protocol",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "dependencies": {
+    "hardhat": "^2.14.0"
+  }
+}

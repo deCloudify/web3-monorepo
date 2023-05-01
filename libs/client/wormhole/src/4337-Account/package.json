@@ -1,0 +1,11 @@
+{
+  "name": "4337-Account",
+  "version": "0.0.1",
+  "description": "consist of scripts to operate on the various DeFI & asset transfers crosschain via wormwhole + AA",
+  "main": "index.ts",
+  "author": "Dhruv",
+  "license": "MIT",
+  "dependencies": {
+    "userop": "^0.1.6"
+  }
+}

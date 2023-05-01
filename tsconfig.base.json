@@ -24,7 +24,9 @@
       "@client/hasura/fetcher": ["libs/client/hasura/fetcher/src/index.ts"],
       "@client/hasura/utils": ["libs/client/hasura/utils/src/index.ts"],
       "@client/next-auth/common": ["libs/client/next-auth/common/src/index.ts"],
-      "@client/next-auth/options": ["libs/client/next-auth/options/src/index.ts"],
+      "@client/next-auth/options": [
+        "libs/client/next-auth/options/src/index.ts"
+      ],
       "@client/siwe/provider": ["libs/client/siwe/provider/src/index.ts"],
       "@client/ui/components": ["libs/client/ui/components/src/index.ts"],
       "@client/ui/shared": ["libs/client/ui/shared/src/index.ts"],
@@ -47,6 +49,7 @@
       "@test-utils/gql": ["libs/test-utils/gql/src/index.ts"],
       "@test-utils/mocks": ["libs/test-utils/mocks/src/index.ts"],
       "@utils": ["libs/utils/src/index.ts"],
+      "@web3-monorepo/wormhole": ["libs/wormhole/src/index.ts"],
       "@workspace": ["libs/workspace/src/index.ts"]
     }
   },

@@ -1,0 +1,7 @@
+{
+  "solidity.remappings": [
+    "@openzeppelin/contracts=node_modules/@openzeppelin/",
+    "accountabstraction/=node_modules/accountabstraction/",
+    "@uniswap/v3-periphery/=node_modules/@uniswap/v3-periphery/"
+  ]
+}
