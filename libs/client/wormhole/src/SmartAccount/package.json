@@ -6,6 +6,9 @@
   "author": "Dhruv",
   "license": "MIT",
   "dependencies": {
+    "@account-abstraction/contracts": "^0.6.0",
+    "hardhat": "^2.14.0",
+    "typechain": "^8.1.1",
     "userop": "^0.1.6"
   }
 }

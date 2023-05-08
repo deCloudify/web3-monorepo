@@ -1,0 +1,3 @@
+[submodule "libs/client/wormhole/src/SmartAccount/account-abstraction"]
+	path = libs/client/wormhole/src/SmartAccount/account-abstraction
+	url = https://github.com/eth-infinitism/account-abstraction.git
